@@ -4,4 +4,7 @@ a place to put software
 Phil Schutt 
 pschutt@gmail.com
 
-I'm a computer professional with several decades experience with computer systems in business settings.
+I'm a professional with several decades experience creating, designing, implementing, and troubleshooting 
+computer systems in business settings.
+
+

@@ -1,8 +1,10 @@
 # code-rock
 a place to put software
 
-Phil Schutt
+Phil Schutt 
 pschutt@gmail.com
 
-I'm a computer professional who has been creating, designing, implementing, and troubleshooting
-business systems for several decades.
+I'm a professional with several decades experience creating, designing, implementing, and troubleshooting 
+computer systems in business settings.
+
+
